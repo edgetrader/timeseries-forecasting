@@ -13,6 +13,7 @@ This analysis explores historical electricity system demand for every half hour 
 Clone the repo and run the jupyter notebook
 1. ./notebook/timeseries-data-exploratory.ipynb
 2. ./notebook/timeseries-forecasting.ipynb
+
 or access the link here
 1. https://github.com/edgetrader/timeseries-forecasting/blob/master/notebook/timeseries-data-exploratory.ipynb
 2. https://github.com/edgetrader/timeseries-forecasting/blob/master/notebook/timeseries-forecasting.ipynb
